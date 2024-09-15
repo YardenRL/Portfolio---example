@@ -10,7 +10,7 @@ Welcome! Here you will find a brief of my professional background, and projects 
 ## Employment History
 **Linear Algebra Teaching Assistan** Hebrew University of Jerusalem (2022 - 2023)
 
-**NOC Engineer** Cybereason (2020 - 2021)
+**Network Engineer** Cybereason (2020 - 2021)
 
 
 ## Projects
